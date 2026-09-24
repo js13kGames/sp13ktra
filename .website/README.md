@@ -1,4 +1,8 @@
 ---
+genres:
+  - racing
+  - music
+  - arcade
 directors_cut: https://killedbyapixel.github.io/SP13KTRA/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
